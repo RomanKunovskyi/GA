@@ -1,0 +1,32 @@
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\Term Papper GA.exe
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\Term Papper GA.deps.json
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\Term Papper GA.runtimeconfig.json
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\Term Papper GA.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\Term Papper GA.pdb
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.csproj.AssemblyReference.cache
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.GeneratedMSBuildEditorConfig.editorconfig
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.AssemblyInfoInputs.cache
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.AssemblyInfo.cs
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.csproj.CoreCompileInputs.cache
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\refint\Term Papper GA.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.pdb
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.genruntimeconfig.cache
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\ref\Term Papper GA.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\FSharp.Core.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\MathNet.Numerics.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\MathNet.Numerics.FSharp.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+H:\LNU\Magistr\Term paper\Term Papper GA\Term Papper GA\obj\Debug\net6.0\Term Papper GA.csproj.CopyComplete

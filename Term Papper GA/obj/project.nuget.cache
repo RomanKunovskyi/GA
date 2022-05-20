@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdRh9gLVpkqm9EZwThz/EQyA9pqLp2ulqmj/tjX3SK9xHzDnJRulwakpD8vQblhlxAbhfSx95jCx0EZkC+DfuA==",
+  "success": true,
+  "projectFilePath": "H:\\LNU\\Magistr\\Term paper\\Term Papper GA\\Term Papper GA\\Term Papper GA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\mathnet.numerics.fsharp\\5.0.0\\mathnet.numerics.fsharp.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
